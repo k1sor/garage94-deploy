@@ -1,2 +1,5 @@
-certs/
+certs/*
+!certs/README.md
+!certs/issue-certificate.ps1
+!certs/issue-certificate.sh
 .env
